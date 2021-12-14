@@ -43,7 +43,7 @@ const socialLinks: SocialLink[] = [
   config.wechatPublicName && {
     name: 'wechatPublicName',
     href: `${config.wechatPublicURL}`,
-    title: `公众号: ${config.wechatPublicName}`,
+    title: `Official Accounts: ${config.wechatPublicName}`,
     icon: (
       <svg
         xmlns='http://www.w3.org/2000/svg'
