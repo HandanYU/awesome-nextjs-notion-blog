@@ -395,11 +395,11 @@
 /* 自定义toggle 🐥 */
 
 .notion-toggle>summary::before {
-  content: "🐣 点击展开";
+  content: "🐣 Click and Unfold";
 }
 
 .notion-toggle[open]>summary::before{
-  content: "🐥 点击收起";
+  content: "🐥 Click and Fold";
 }
 
 .notion-toggle>summary {
