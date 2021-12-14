@@ -75,12 +75,12 @@ export const Footer: React.FC<{
           <a
             className={styles.notionPublic}
             href={`${config.notionPublic}`}
-            title='通过 Notion 打开'
+            title='via Notion'
             target='_blank'
             rel='noopener noreferrer'
           >
             <SiNotion />
-            <span className={styles.tooltiptext}>从 Notion 打开</span>
+            <span className={styles.tooltiptext}>via Notion</span>
           </a>
         )}
       </div>
