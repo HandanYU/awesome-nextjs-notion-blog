@@ -1,18 +1,18 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
+  rootNotionPageId: '1881c8286de94552873577bd8918d943',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
-  domain: 'szufrank.top',
-  author: '菜饼同学',
+  name: 'Diana's Blog',
+  domain: 'Diana.top',
+  author: 'Diana',
 
   // open graph metadata (optional)
-  description: '菜饼同学的技术博客',
+  description: '',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
