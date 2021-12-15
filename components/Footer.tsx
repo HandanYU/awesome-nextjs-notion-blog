@@ -67,7 +67,7 @@ export const Footer: React.FC<{
           >
             <SiWechat />
             <span className={styles.tooltiptext}>
-              公众号: {config.wechatPublicName}
+              Official Account: {config.wechatPublicName}
             </span>
           </a>
         )}
