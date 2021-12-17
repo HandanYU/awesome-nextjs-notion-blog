@@ -34,8 +34,8 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
-  utterancesGitHubLabel: '博客评论',
+  utterancesGitHubRepo: 'https://github.com/HandanYU/awesome-nextjs-notion-blog',
+  utterancesGitHubLabel: 'Blog Comments',
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
