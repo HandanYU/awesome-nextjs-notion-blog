@@ -34,7 +34,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'HandanYU/awesome-nextjs-notion-blog',
+  utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
   utterancesGitHubLabel: 'Blog Comments',
 
   // whether or not to enable support for LQIP preview images (optional)
