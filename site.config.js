@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Diana Blog',
-  domain: 'Diana.top',
+  domain: 'awesome-nextjs-notion-blog.vercel.app',
   author: 'Diana',
 
   // open graph metadata (optional)
@@ -34,7 +34,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
+  utterancesGitHubRepo: 'HandanYU/awesome-nextjs-notion-blog',
   utterancesGitHubLabel: 'Blog Comments',
 
   // whether or not to enable support for LQIP preview images (optional)
